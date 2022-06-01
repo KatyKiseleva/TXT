@@ -1,0 +1,6 @@
+1_skill: API
+2_skill: terminal
+3_skill: git
+4_skil: postman
+5_skill: information search
+
